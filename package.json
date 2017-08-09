@@ -38,7 +38,7 @@
   "dependencies": {
     "lodash.isequal": "^4.5.0",
     "react-native-experimental-navigation": "^0.28.0",
-    "react-native-tabs": "^1.0.9",
+    "react-native-tabs": "github:EdtechFoundry/react-native-tabs#c709af985dc51ef0732b1b2aee362c4231ecdeb1",
     "react-static-container": "^1.0.1"
   },
   "devDependencies": {
